@@ -5,11 +5,11 @@
 
 In this tutorial we will be inspecting DNS A-Records (hostname to IP address mappings) and create some of our own A-Records on the server and observe them.
 
-# Requirements for this Lab
+# Requirements for this Lab:
 - Active Directory running in Azure on a virtual machine (DC-1)
 - A client machine running in Azure on a virtual machine (Client-1) and joined to the domain
 
-# Steps
+# Steps:
 
 - Go to DC-1 as your domain account (mydomain.com\jane_admin)
 ![Screenshot 2024-07-07 184904](https://github.com/user-attachments/assets/a18054f7-2d18-4238-b543-c865a3b910d3)
